@@ -6,8 +6,9 @@ DeepDark is a free Obsidian theme that, along with its beautiful dark colors, br
 
 * Download the latest [release](https://github.com/noxtgm/deepdark/releases)
 * Extract the `deepdark` folder
-* Open your Obsidian settings → Appearance → Click on the folder icons next to `Themes`
+* Open your Obsidian settings → Appearance → click on the folder icon next to `Themes`
 * Drag and drop `deepdark` into Obsidian's `.themes` folder
+* Choose `deepdark` as your Obsidian theme in the Appearance tab
 
 ## 📄 License
 
