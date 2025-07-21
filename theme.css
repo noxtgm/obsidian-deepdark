@@ -4,7 +4,7 @@ id: info
 settings:
   -
     id: extras-info
-    description: "Thank you for using noxtgm's Deep Dark theme!<br> <br> 📭 If you encounter any issues when styling or customizing the theme, please submit an [issue](https://github.com/noxtgm/deepdark/issues) or open a [discussion](https://github.com/noxtgm/deepdark/discussions) on Github.<br> <br> 🔼 View recent updates: [Github commit history](https://github.com/noxtgm/deepdark/commits/main)."
+    description: "Thank you for using noxtgm's Deep Dark theme!<br> <br> 📭 If you encounter any issues when styling or customizing the theme, please submit an [issue](https://github.com/noxtgm/deepdark/issues) on Github.<br> <br> 🔼 View recent updates: [Github commit history](https://github.com/noxtgm/deepdark/commits/main)."
     type: info-text
     markdown: true
     collapsed: false
