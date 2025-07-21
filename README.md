@@ -1,10 +1,13 @@
 # DeepDark
 
-
+DeepDark is a free Obsidian theme that, along with its beautiful dark colors, brings utility features to your vault. Automatically hide parts of Obsidian, change callouts' styling, zoom on images, add custom folder colors, and much more!
 
 ## 📖 Installation
 
-* 
+* Download the latest [release](https://github.com/noxtgm/deepdark/releases)
+* Extract the `deepdark` folder
+* Open your Obsidian settings → Appearance → Click on the folder icons next to `Themes`
+* Drag and drop `deepdark` into Obsidian's `.themes` folder
 
 ## 📄 License
 
