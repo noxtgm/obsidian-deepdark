@@ -14,7 +14,7 @@ DeepDark is a free Obsidian theme that, along with its beautiful dark colors, br
 
 ## 📄 License
 
-[GNU General Public License v3.0](https://choosealicense.com/licenses/gpl-3.0/)
+[MIT License](https://choosealicense.com/licenses/mit/)
 
 ## 🔗 Links
 
