@@ -6,7 +6,7 @@ DeepDark is a free [Obsidian](https://obsidian.md/) theme that, along with its b
 
 ## 📖 Installation
 
-* Download the latest [release](https://github.com/noxtgm/deepdark/releases)
+* Download the repository
 * Extract the `deepdark` folder
 * Open your Obsidian settings → Appearance → click on the folder icon next to `Themes`
 * Drag and drop `deepdark` into Obsidian's `themes` folder
